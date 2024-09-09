@@ -1,0 +1,5 @@
+model.h5
+saved_model/
+tfjs_model/
+tflite/
+requirements_model.txt
