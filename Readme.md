@@ -1,4 +1,4 @@
-# Show Image Classification.
+# Shoes Image Classification.
 ## _Submission 2 dari kelas Belajar pengembangan ML Dicoding Indonesia, 2024_
 
 > Proyek ini mencakup proses Klasifikasi gambar Sepatu dari total 15 kelas.
